@@ -26,6 +26,7 @@ class BannerNewsBar extends StatelessWidget {
       ),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        mainAxisSize: MainAxisSize.min,
         children: [
           Image.asset(
             'assets/calculator.png',
@@ -35,6 +36,7 @@ class BannerNewsBar extends StatelessWidget {
           Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisSize: MainAxisSize.min,
             children: [
               Text(
                 titleBanner,
@@ -43,7 +45,7 @@ class BannerNewsBar extends StatelessWidget {
               Text(
                 subtitleBanner,
                 maxLines: 2,
-                style: TextStyle(fontSize: 16),
+                style: TextStyle(fontSize: 14),
                 softWrap: true,
               ),
             ],

@@ -17,7 +17,7 @@ class CustomNavigationDrawer extends StatelessWidget {
               ),
               CustomItemDrawer(
                 onTap: () {},
-                icon: Icons.person_3_rounded,
+                icon: Icons.person_3_outlined,
 
                 title: 'Mi usuario',
               ),
@@ -35,8 +35,7 @@ class CustomNavigationDrawer extends StatelessWidget {
               ),
               CustomItemDrawer(
                 onTap: () {},
-                icon: Icons.person_4_outlined,
-
+                icon: Icons.perm_identity_outlined,
                 title: 'Clientes',
               ),
               CustomItemDrawer(
@@ -47,7 +46,7 @@ class CustomNavigationDrawer extends StatelessWidget {
               ),
               CustomItemDrawer(
                 onTap: () {},
-                icon: Icons.group,
+                icon: Icons.group_outlined,
                 title: 'Personal',
               ),
               CustomItemDrawer(

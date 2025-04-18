@@ -1,0 +1,2 @@
+C:/Users/socii/Downloads/Flutter Projects/mendosys/flutter-mendosys/android/app/.cxx/Debug/1j3j4t6r/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/socii/Downloads/Flutter Projects/mendosys/flutter-mendosys/android/app/.cxx/Debug/1j3j4t6r/armeabi-v7a/CMakeFiles/rebuild_cache.dir

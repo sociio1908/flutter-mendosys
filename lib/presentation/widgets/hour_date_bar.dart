@@ -8,7 +8,7 @@ class HourDateBar extends StatelessWidget {
     final size = MediaQuery.of(context).size;
 
     return Container(
-      margin: const EdgeInsets.symmetric(vertical: 15),
+      margin: EdgeInsets.symmetric(vertical: size.height * .01),
       width: size.width * 0.7,
       height: 40,
       decoration: BoxDecoration(

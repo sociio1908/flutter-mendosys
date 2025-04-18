@@ -16,7 +16,7 @@ class CustomBackground extends StatelessWidget {
         ),
       ),
       width: double.infinity,
-      height: size.height * .3,
+      height: size.height * .25,
       child: null,
     );
   }
