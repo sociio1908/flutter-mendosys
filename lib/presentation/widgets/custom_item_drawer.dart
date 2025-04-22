@@ -27,7 +27,7 @@ class CustomItemDrawer extends StatelessWidget {
             ),
           ),
         ),
-        Divider(color: Utility.primaryOrangeColor, height: 5),
+        Divider(color: Colors.deepOrange.shade100, height: 5),
       ],
     );
   }
